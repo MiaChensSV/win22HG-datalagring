@@ -1,0 +1,17 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\02_FileStorage\bin\Debug\net7.0\02_FileStorage.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\02_FileStorage\bin\Debug\net7.0\02_FileStorage.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\02_FileStorage\bin\Debug\net7.0\02_FileStorage.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\02_FileStorage\bin\Debug\net7.0\02_FileStorage.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\02_FileStorage\bin\Debug\net7.0\02_FileStorage.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\02_FileStorage\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\02_FileStorage\obj\Debug\net7.0\02_FileStorage.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\02_FileStorage\obj\Debug\net7.0\02_FileStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\02_FileStorage\obj\Debug\net7.0\02_FileStorage.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\02_FileStorage\obj\Debug\net7.0\02_FileStorage.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\02_FileStorage\obj\Debug\net7.0\02_FileStorage.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\02_FileStorage\obj\Debug\net7.0\02_FileStorage.csproj.CopyComplete
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\02_FileStorage\obj\Debug\net7.0\02_FileStorage.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\02_FileStorage\obj\Debug\net7.0\refint\02_FileStorage.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\02_FileStorage\obj\Debug\net7.0\02_FileStorage.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\02_FileStorage\obj\Debug\net7.0\02_FileStorage.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\02_FileStorage\obj\Debug\net7.0\ref\02_FileStorage.dll

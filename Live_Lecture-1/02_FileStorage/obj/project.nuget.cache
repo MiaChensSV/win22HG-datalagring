@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zPfTLcsKDv2yUdaK9elmGE+lCpc1vFiGrjNWYrtLUqhEF9mcu90EFtAvWwvbbSRChmFJkd8Ddfy2Le5534Fnsg==",
+  "dgSpecHash": "KaW1x2lVQA9kiEA6eSleO81GgKkcekHULwdA7zgAObbfduKE4GE1bvNwSW5VkQ2ycmp5VG+24N1Jpbz2j3XbzQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\WIN22HG\\datalagring\\Live_Lecture-1\\02_FileStorage\\02_FileStorage.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
