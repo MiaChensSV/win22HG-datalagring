@@ -94,15 +94,26 @@
 */
 #endregion
 
+#region CRUD & HTTP Methods
+/*  
+    CRUD        HTTP Methods
+    ------------------------------------------------------------------------------------------------
+    CREATE      POST                    Skicka/Spara                    body
+    READ        GET                     Hämta                           query
+    UPDATE      PUT/PATCH               Ersätt/Uppdatera                query, body
+    DELETE      DELETE                  Ta bort                         query
+*/
+#endregion
+
 
 /* ------------------------------------------------------------------------------------------------------------------ */
 
-using _01_TheBasics.Models;
+using _01_TheBasics.Services;
 
-var customer = new Customer { FirstName = "Hans", LastName = "Mattin-Lassei" };
+var customerService = new CustomerService();
 
+customerService.Create()
 
-Console.WriteLine(customer.DisplayName);
 
 Console.ReadKey();
 
