@@ -108,13 +108,6 @@
 
 /* ------------------------------------------------------------------------------------------------------------------ */
 
-using _01_TheBasics.Services;
-
-var customerService = new CustomerService();
-
-customerService.Create()
-
-
 Console.ReadKey();
 
 
