@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\01_TheBasics\bin\Debug\net7.0\01_TheBasics.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\01_TheBasics\bin\Debug\net7.0\01_TheBasics.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\01_TheBasics\bin\Debug\net7.0\01_TheBasics.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\01_TheBasics\bin\Debug\net7.0\01_TheBasics.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\01_TheBasics\bin\Debug\net7.0\01_TheBasics.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\01_TheBasics\obj\Debug\net7.0\01_TheBasics.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\01_TheBasics\obj\Debug\net7.0\01_TheBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\01_TheBasics\obj\Debug\net7.0\01_TheBasics.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\01_TheBasics\obj\Debug\net7.0\01_TheBasics.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\01_TheBasics\obj\Debug\net7.0\01_TheBasics.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\01_TheBasics\obj\Debug\net7.0\01_TheBasics.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\01_TheBasics\obj\Debug\net7.0\refint\01_TheBasics.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\01_TheBasics\obj\Debug\net7.0\01_TheBasics.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\01_TheBasics\obj\Debug\net7.0\01_TheBasics.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-1\01_TheBasics\obj\Debug\net7.0\ref\01_TheBasics.dll

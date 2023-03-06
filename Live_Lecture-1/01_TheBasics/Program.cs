@@ -2,7 +2,7 @@
 /*
     Namngivning av variabler och klasser
     ----------------------------------------------------------------------------------------------
-    PascalCase          C#, VB, C, C++              FirstName, LastName, Customer, GetData()
+    PascalCase          C#, VB, C, C++, SQL         FirstName, LastName, Customer, GetData()
     camelCase           JS, java, C, C++            firstName, lastName, customer, getData()
     snake_case          python                      first_name, last_name, customer, get_data()
     kebab-case          html, css                   firstname, lastname, product-list, get-data
@@ -97,6 +97,12 @@
 
 /* ------------------------------------------------------------------------------------------------------------------ */
 
+using _01_TheBasics.Models;
+
+var customer = new Customer { FirstName = "Hans", LastName = "Mattin-Lassei" };
+
+
+Console.WriteLine(customer.DisplayName);
 
 Console.ReadKey();
 
