@@ -18,7 +18,7 @@ internal class CustomerService
             FirstName = form.FirstName,
             LastName = form.LastName,
             Email = form.Email,
-            AddressId = _addressService.Save(new Address { StreetName = form.StreetName, PostalCode = form.PostalCode, City = form.City }),
+            //AddressId = _addressService.Save(new Address { StreetName = form.StreetName, PostalCode = form.PostalCode, City = form.City }),
         };
         
         using var cmd = new SqlCommand($"IF NOT EXISTS (SELECT Id FROM Customers WHERE Email = @Email) INSERT INTO Customers OUTPUT inserted.Id VALUES (@FirstName, @LastName, @Email, @AddressId)", conn);

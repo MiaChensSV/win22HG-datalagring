@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_SqlClient", "01_SqlClient\01_SqlClient.csproj", "{04E8CE56-7AE9-495B-9AF8-0092CE6F3379}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_SqlClient", "01_SqlClient\01_SqlClient.csproj", "{04E8CE56-7AE9-495B-9AF8-0092CE6F3379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_EntityFrameworkCore_CodeFirst", "02_EntityFrameworkCore_CodeFirst\02_EntityFrameworkCore_CodeFirst.csproj", "{D62210A2-997D-40FB-8D31-0AF94633FAFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{04E8CE56-7AE9-495B-9AF8-0092CE6F3379}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04E8CE56-7AE9-495B-9AF8-0092CE6F3379}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04E8CE56-7AE9-495B-9AF8-0092CE6F3379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D62210A2-997D-40FB-8D31-0AF94633FAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D62210A2-997D-40FB-8D31-0AF94633FAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D62210A2-997D-40FB-8D31-0AF94633FAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D62210A2-997D-40FB-8D31-0AF94633FAFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
