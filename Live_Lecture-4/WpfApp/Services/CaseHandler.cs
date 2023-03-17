@@ -49,14 +49,16 @@ internal class CaseHandler
         return _caseEntity!;      
     }
 
-    public async Task<CaseEntity> UpdateAsync(Guid id, string statusName)
+    public async Task<CaseEntity> UpdateAsync(Guid id, string statusName = null!)
     {
         var _caseEntity = await GetAsync(id);
 
         if (_caseEntity != null) 
-        { 
-            _caseEntity.StatusId = (await _statusHandler.GetOrCreateAsync(statusName)).Id;
+        {
             _caseEntity.Modified = DateTime.Now;
+
+            if (statusName != null)
+                _caseEntity.StatusId = (await _statusHandler.GetOrCreateAsync(statusName)).Id;
 
             _context.Update(_caseEntity);
             await _context.SaveChangesAsync();

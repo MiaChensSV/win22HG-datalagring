@@ -12,21 +12,17 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using WpfApp.Models.Entitites;
-using WpfApp.Services;
 
-namespace WpfApp
+namespace WpfApp.Views
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for AllCasesView.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class AllCasesView : UserControl
     {
-
-        public MainWindow()
+        public AllCasesView()
         {
             InitializeComponent();
         }
-
     }
 }
