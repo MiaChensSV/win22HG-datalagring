@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN22HG\datalagring\Live_Lecture-4\WpfApp\App.xaml
-2-1471465440
+3708229915
 
-2197403515
+231027721805
 227-311477736
-MainWindow.xaml;Views\AllCasesView.xaml;
+MainWindow.xaml;Resources\ButtonDictonary.xaml;Views\AllCasesView.xaml;
 
-True
+False
 

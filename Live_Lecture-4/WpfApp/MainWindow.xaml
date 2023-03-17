@@ -5,8 +5,36 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        xmlns:viewModels="clr-namespace:WpfApp.ViewModels"
+        xmlns:views="clr-namespace:WpfApp.Views"
+        d:DataContext="{d:DesignInstance Type=viewModels:MainViewModel}"
+        Title="Case Management" Height="650" Width="1050">
+    
+    <Grid Background="#212E3F">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
 
+        <Grid Grid.Row="0" Margin="20">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0" Orientation="Horizontal" VerticalAlignment="Center">
+                <TextBlock Text="EC APP" Foreground="White" Margin="0 0 20 0" FontWeight="Thin" FontSize="22" VerticalAlignment="Center" />
+                <Button Content="New Case" Padding="10 4" Background="#4980FF" Foreground="White" FontWeight="Medium" BorderThickness="0" />
+            </StackPanel>
+        </Grid>
+
+        <ContentControl Grid.Row="1" Content="{Binding CurrentViewModel}">
+            <ContentControl.Resources>
+                <DataTemplate DataType="{x:Type viewModels:AllCasesViewModel}">
+                    <views:AllCasesView />
+                </DataTemplate>
+            </ContentControl.Resources>
+        </ContentControl>
+        
     </Grid>
 </Window>

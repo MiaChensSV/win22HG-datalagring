@@ -10,13 +10,15 @@ namespace WpfApp.ViewModels;
 internal partial class AllCasesViewModel : ObservableObject
 {
     private readonly CaseHandler _caseHandler = new();
+    private readonly NavigationHandler _navigationHandler;
 
     [ObservableProperty]
     private ObservableCollection<CaseEntity> cases = new ObservableCollection<CaseEntity>();
 
-    public AllCasesViewModel()
+    public AllCasesViewModel(NavigationHandler navigationHandler)
     {
         GetCases();
+        _navigationHandler = navigationHandler;
     }
 
     private void GetCases()
