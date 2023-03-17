@@ -51,7 +51,6 @@
                             <TextBlock Grid.Column="2" Text="Status" />
                             <TextBlock Grid.Column="3" Text="Modifed" />
                             <TextBlock Grid.Column="4" Text="" HorizontalAlignment="Right" />
-
                         </Grid>
                     </DataTemplate>
                 </ListView.ItemTemplate>
@@ -60,7 +59,7 @@
 
 
             <!-- Content/Items -->
-            <ListView Grid.Row="1" Margin="20 0 20 0" ItemsSource="{Binding Cases}" >
+            <ListView Grid.Row="1" Margin="20 0 20 20" ItemsSource="{Binding Cases}" >
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <Grid Margin="0 8 0 8">
@@ -77,7 +76,6 @@
                             <TextBlock Grid.Column="2" Text="{Binding Status.StatusName}" />
                             <TextBlock Grid.Column="3" Text="{Binding Modified}" />
                             <Button Grid.Column="4" Content="View Details" />
-
                         </Grid>
                     </DataTemplate>
                 </ListView.ItemTemplate>
